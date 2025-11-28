@@ -1,7 +1,7 @@
 using System;
 
 Console.WriteLine("Hello Kartikey");
-Cosnole.ReadLine();
+Console.ReadLine();
 
 Console.WriteLine("Hello Peter!");
-Cosnole.ReadLine();
+Console.ReadLine();
