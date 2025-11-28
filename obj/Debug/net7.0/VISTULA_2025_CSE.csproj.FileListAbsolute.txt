@@ -1,0 +1,15 @@
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.AssemblyInfoInputs.cache
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.AssemblyInfo.cs
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.csproj.CoreCompileInputs.cache
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.sourcelink.json
+/workspaces/VISTULA_2025_CSE/bin/Debug/net7.0/VISTULA_2025_CSE
+/workspaces/VISTULA_2025_CSE/bin/Debug/net7.0/VISTULA_2025_CSE.deps.json
+/workspaces/VISTULA_2025_CSE/bin/Debug/net7.0/VISTULA_2025_CSE.runtimeconfig.json
+/workspaces/VISTULA_2025_CSE/bin/Debug/net7.0/VISTULA_2025_CSE.dll
+/workspaces/VISTULA_2025_CSE/bin/Debug/net7.0/VISTULA_2025_CSE.pdb
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.dll
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/refint/VISTULA_2025_CSE.dll
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.pdb
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/VISTULA_2025_CSE.genruntimeconfig.cache
+/workspaces/VISTULA_2025_CSE/obj/Debug/net7.0/ref/VISTULA_2025_CSE.dll
