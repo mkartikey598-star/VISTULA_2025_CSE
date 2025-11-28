@@ -1,1 +1,3 @@
 Console.Writeline("Hello Kartikey!);
+
+Console.WriteLine("Hello Peter!");
